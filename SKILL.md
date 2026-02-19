@@ -4,7 +4,7 @@ description: Transform generic or overly-enthusiastic content into Hannibal Bure
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3781
+  version: 1.0.3782
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
